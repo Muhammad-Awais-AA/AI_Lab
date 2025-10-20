@@ -33,7 +33,7 @@ Jupyter Notebooks
 
 Clone the repository:
 
-git clone https://github.com/your-username/ai-lab.git
+git clone https://github.com/Muhammad-Awais-AA/AI_Lab.git
 cd ai-lab
 
 
